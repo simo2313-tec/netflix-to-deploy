@@ -1,0 +1,35 @@
+/* App.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #fff;
+  }
+  
+  .app {
+    overflow-x: hidden;
+    background-color: #111;
+    
+  }
+  
+  h2 {
+    margin-left: 20px;
+  }
+
+
+.row__posters::-webkit-scrollbar {
+    display: none;
+    
+  }
+  .row__posters {
+    -ms-overflow-style: none;  
+    scrollbar-width: none;     
+  }
+  .row__posterLarge{
+    max-width: 250px;
+    
+  }
