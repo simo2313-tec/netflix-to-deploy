@@ -3,7 +3,7 @@ import axios from '../../../utils/axios'
 // import requests from "../../../Utilis/Requists";
 import YouTube from 'react-youtube'
 import movieTrailer from 'movie-trailer'
-import './Rowse.css'
+import './rowse.css'
 
 const base_url = "https://image.tmdb.org/t/p/original/";
 
